@@ -1,0 +1,17 @@
+Business Add
+-------------------
+3. Closed click action on business details on working hour
+4. Update - Closed working hour populate, location dropdown populate, complete check
+5. Login flow
+
+6. Business details
+ - Website icon is different
+ - Industry Type is not in api
+ - Created at is the date given
+ - Closed status need in working hour 
+
+
+Properties
+----------------------
+3. Property add google places api input
+4. Properties list active status change api issue

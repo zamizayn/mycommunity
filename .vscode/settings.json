@@ -1,0 +1,9 @@
+{
+  "l13Diff.exclude": [
+    "**/.DS_Store",
+    "**/.git",
+    "**/.hg",
+    "**/.svn",
+    "**/CVS"
+  ]
+}
